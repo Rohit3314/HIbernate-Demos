@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/ORM/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/byte-buddy-1.12.9.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/FastInfoset-1.2.15.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernate-commons-annotations-5.1.2.Final.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernate-core-5.6.10.Final.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/istack-commons-runtime-3.0.7.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/jandex-2.4.2.Final.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/jaxb-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/jboss-logging-3.4.3.Final.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/stax-ex-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/txw2-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/byte-buddy-1.8.12.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/classmate-1.3.4.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/geolatte-geom-1.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/hibernate-c3p0-5.3.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/hibernate-commons-annotations-5.0.3.Final.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/hibernate-core-5.3.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/hibernate-envers-5.3.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/hibernate-jpamodelgen-5.3.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/hibernate-osgi-5.3.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/hibernate-proxool-5.3.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/hibernate-spatial-5.3.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/jandex-2.0.3.Final.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/javassist-3.22.0-GA.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/javax.interceptor-api-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/jboss-logging-3.3.2.Final.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/jts-core-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/mchange-commons-java-0.2.11.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/org.osgi.compendium-4.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/org.osgi.core-4.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/postgresql-42.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/proxool-0.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/ORM/hibernatejar/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rohit Sutare/Downloads/mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
